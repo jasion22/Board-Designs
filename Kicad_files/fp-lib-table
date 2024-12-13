@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Library)(type KiCad)(uri /home/icfoss/Documents/KiCAD_Footprints/kicad-footprints/)(options "")(descr ""))
+  (lib (name meta)(type KiCad)(uri /home/jaison/Documents/Jaison/Daughter_Board_with_PI/Library/RPi_Hat_Template-master)(options "")(descr ""))
+  (lib (name kicad-mini-pci-express-master)(type KiCad)(uri /home/jaison/Documents/Jaison/Daughter_Board_with_PI/Library/kicad-mini-pci-express-master)(options "")(descr ""))
+  (lib (name Kicad-Hat)(type KiCad)(uri /home/jaison/Documents/Jaison/kicad-library-RPi_HAT/library)(options "")(descr ""))
+)

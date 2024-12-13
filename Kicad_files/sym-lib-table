@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name RAK833Contact)(type Legacy)(uri "/home/icfoss/Desktop/Datas/Shafeek/kicad test/Daughter_Board/Library/RAK833Contact.lib")(options "")(descr ""))
+  (lib (name mpcie)(type Legacy)(uri ${PROJECT_LIBRARY_DAUGHTER_BOARD}/mpcie.lib)(options "")(descr ""))
+  (lib (name RPi_Hat-cache)(type Legacy)(uri ${PROJECT_LIBRARY_DAUGHTER_BOARD}/RPi_Hat_Template-master/RPi_Hat-cache.lib)(options "")(descr ""))
+  (lib (name Daughter_Board-rescue)(type Legacy)(uri ${KIPRJMOD}/Daughter_Board-rescue.lib)(options "")(descr ""))
+  (lib (name hat)(type Legacy)(uri /home/jaison/Documents/Jaison/Daughter_Board_with_PI/Library/RPi_Hat_Template-master/RPi_Hat-rescue.lib)(options "")(descr ""))
+  (lib (name Barrel_Jack)(type Legacy)(uri /home/jaison/Documents/Jaison/PJ-079BH/PJ-079BH.lib)(options "")(descr ""))
+)
